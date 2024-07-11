@@ -24,7 +24,9 @@ hs_err_pid*
 replay_pid*
 
 # intellij idea files
+.idea/
 .idea
 
 # vs code files
+.vscode/
 .vscode
